@@ -1,0 +1,11 @@
+{
+  "name": "forzaMatte",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "abc97b5f",
+  "defaultBrowser": "google-chrome",
+  "address":"localhost",
+  "port":"8003"
+}
